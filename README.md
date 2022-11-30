@@ -15,7 +15,7 @@ To login as an employee, click on Employee Login by entering employee login cred
 #### Username : 1001
 #### Password : 123
 
-To login as an Admin, click on Admin Login by entering login credentials
+To login as HR, click on HR Login by entering login credentials
 #### Username : Admin
 #### Password : Admin
 
